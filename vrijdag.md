@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
+**Datum:** `[16/01/2026]`  
 **Studentnaam:** `[Cheryl Aitchedji]`  
 **Groepsnaam:** `[Atonoumous]`
 
@@ -10,21 +10,19 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Persona afgemaakt op Illustrator
-- Design research opgesteld.
-- Wireframe voor product details pagina en homepage
-- Prototype desifn voor product details pagina en homepage
+- Presentatie geoefend
+- Presenatie uitgevoerd
+- Feedback uitgewerkt
+- Takenverdeling
 
 > **Activiteiten:**  
-> Illustrator: Persona pagina
-> Figma: Wireframe en Prototype
-> Word: Design process
+> Figma: Scrumboard (met Ayman, Kiara en Rune)
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- Niets van toepassing
+- Niets van toepassing.
 
 _Instructie (1 item per dag volstaat):_
 
@@ -32,8 +30,8 @@ _Instructie (1 item per dag volstaat):_
 - Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
 
 > **Nieuwe skills:**
->
-> - Stress controle door ademhaling
+
+> - Niets van toepassing
 
 ---
 
@@ -41,11 +39,11 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-- Vandaag voel ik dat we up to date zijn, we staan op schema.
+- Vandaag ben ik heel blij met onze resultaat van mijn werk en van de team!
 
 > **Algmeeen gevoel:**
 >
-> - **"Hoopvol"** :smiley:
+> - **"Trots, samenheid"** :smiley:
 
 ---
 
